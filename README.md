@@ -6,7 +6,7 @@
 
 <div align="center">
 
-Olá, nesse há resoluções do livro Lógica de Programação e Algoritmos com JavaScript.
+Olá, nesse repositório há resoluções do livro Lógica de Programação e Algoritmos com JavaScript.
 
 <!Olá, nesse repositório encontra-se resolução de todos os exercícios do livro Lógica de Programação e Algoritmos com JavaScript.>
 
